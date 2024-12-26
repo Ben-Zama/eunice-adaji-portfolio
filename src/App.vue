@@ -1,4 +1,4 @@
-<template>
+*<template>
 
   <header :class="{ 'white-text': isWorkPage }">
 
@@ -30,11 +30,11 @@
           <a href="tel: 07061609880">07061609880</a>
         </div>
         <div>
-          <i class="bi bi-instagram"></i>
+          <i class="bi bi-envelope"></i>
           <a href="mailto: euniceadaji123@gmail.com">euniceadaji123@gmail.com</a>
         </div>
         <div>
-          <i class="bi bi-envelope"></i>
+          <i class="bi bi-instagram"></i>
           <a target="_blank" href="https://www.instagram.com/iam_vida3">iam_vida3</a>
         </div>
       </div>
@@ -51,11 +51,11 @@
         <a href="tel: 07061609880">07061609880</a>
       </div>
       <div>
-        <i class="bi bi-instagram"></i>
+        <i class="bi bi-envelope"></i>
         <a href="mailto: euniceadaji123@gmail.com">euniceadaji123@gmail.com</a>
       </div>
       <div>
-        <i class="bi bi-envelope"></i>
+        <i class="bi bi-instagram"></i>
         <a target="_blank" href="https://www.instagram.com/iam_vida3">iam_vida3</a>
       </div>
     </div>
